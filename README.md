@@ -9,3 +9,4 @@ Students will learn how to process medical imaging data, work with NIfTI files, 
 ***Required Tools***
 [Github Tutorial](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
 [Jupyter Notebook Tutorial](https://www.datacamp.com/tutorial/tutorial-jupyter-notebook)
+[Google Colab Tutorial](https://www.geeksforgeeks.org/websites-apps/how-to-use-google-colab/)
